@@ -7,9 +7,6 @@
 
 .page-title {
     color: #fce138;
-}
-
-.hero h2 {
     display: inline-block;
     border-bottom: 4px solid #fce138;
     padding: 0 80px 15px;
@@ -20,7 +17,7 @@
 
 .secondary-content {
     width: 80%;
-    margin: auto;
+    margin: 0 auto;
     color: #024e76;
 }
 
@@ -32,7 +29,7 @@
 .secondary-content p {
     font-size: 16px;
     line-height: 1.5;
-    margin:auto;
+    margin: 20px 0;
 }
 
 .secondary-content ul {
