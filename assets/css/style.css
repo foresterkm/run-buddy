@@ -92,9 +92,6 @@ section {
     width: 40%;
     color: #024e76;
     border: solid 3px #024e76;
-    position: absolute;
-    bottom: 120px;
-    right: 140px;
     margin: 3.5%;
 }
 
@@ -179,7 +176,7 @@ section {
   }
 
   .trainer {
-      margin: 0 auto 20px auto;
+      margin: 20px;
       background: #024e76;
       color:#fce138;
       flex: 1;
@@ -337,4 +334,8 @@ section {
       text-align: center;
       padding: 15px 0;
       font-size: 16px;
+  }
+
+  .flex-row {
+    display: flex;
   }
